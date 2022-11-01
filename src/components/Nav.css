@@ -1,0 +1,27 @@
+.search{
+    margin-right: 5px;
+}
+
+li{
+    justify-content: space-around;
+    padding-left: 20px;
+    margin-left: 15px;
+    color:RGB(70, 63, 95);
+}
+.close{
+    margin-left: 50px;
+    color: red;
+}
+
+.search_icon{
+    margin-right: 20px;
+}   
+
+.closeIcon{
+    margin-left:-35px;
+}
+
+.Search_icon{
+    width: 20px;
+    margin-top: 10px;
+}

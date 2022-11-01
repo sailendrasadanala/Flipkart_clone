@@ -1,0 +1,75 @@
+.Leftcont{
+    width: 48%;
+    height: 500px;
+    margin-top: -5px;
+    margin-left: 15px;
+}
+.serial_img{
+    display: flex;
+}
+.list{
+    list-style: none;
+    padding-bottom: 10px;
+    padding: 5px;
+}
+.leftp{
+   margin-left: 20px; 
+   color: grey;
+   font-size: small;
+   margin-bottom: 30px;
+   margin-top: 10px;
+}
+.under {
+    position: absolute;
+    background-color: transparent;
+    z-index: -1;
+    padding: 10px;
+    margin-left: -10px;
+  }
+  
+  .over {
+    position: absolute;
+    background-color: transparent;
+    width: 20px;
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 13px;
+    z-index: -1;
+    margin-left: 2px;
+  }
+  .mainphone{
+    display: flex;
+    width: 200px;
+    margin-left: 250px;
+    margin-top: -420px;
+  }
+
+  .love{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    padding: 12px;
+    background-color: RGB(251, 251, 251);
+    border-radius: 50px;
+    margin-left: 550px;
+    margin-top: -410px;
+    box-shadow: 2px 5px 5px grey;
+    cursor: pointer;
+  }
+.buy{
+    display: flex;
+    margin-left: 180px;
+    margin-top: 380px; 
+}
+
+.buy button{
+    width: 180px;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 1px 5px 12px;
+}
+.buynow{
+    background-color: RGB(70, 63, 95);
+    margin-left: 20px;
+}
